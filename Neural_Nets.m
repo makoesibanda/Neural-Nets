@@ -2,7 +2,7 @@
 clear all; close all; clc;
 
 %{
-// Data Structure for the Weights //
+// Data Structure for the Weights ///
  
 For this coursework, the network we are working with is small, and it
 contains exactly 9 weights in total. Since the structure is fixed and
